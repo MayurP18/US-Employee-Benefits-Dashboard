@@ -61,8 +61,14 @@ The raw BLS dataset (76.4 MB, 768,207 rows) was reduced to 14,285 rows for Table
 
 ---
 
+## Data Notes
+- Data filtered to Civilian Workers, All Industries, 2025
+- Metrics represent access to benefits, not enrollment
+- Some totals may not sum to 100% due to rounding
+
+---
+
 ## Tools Used
 
 - **Tableau Public** — Visualisation
-- **Python / pandas** — Data preparation
-- **Microsoft Excel** — Source data format
+- **Microsoft Excel** — Data preparation
