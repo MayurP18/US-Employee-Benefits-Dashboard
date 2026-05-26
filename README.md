@@ -14,7 +14,7 @@ https://public.tableau.com/views/TheHealthcareCoverageDivideWhoHasBenefitsinAmer
 
 ## What This Project Is About
 
-At Willis Towers Watson, I work as part of the Financial, Actuarial and Analytics team and we spend a lot of time benchmarking clients against industry incumbents. While we work on our own proprietary survey data, I wanted to explore the public side of that same question: what does benefits access actually look like across America? So I chose to work with National Compensation Survey by the U.S. Bureau of Labor Statistics as it provides a comprehensive snapshot of employee benefits access across the country by industry, wage tier, and ownership type over the span of 50 years. 
+At Willis Towers Watson, I work as part of the Financial, Actuarial and Analytics team and we spend a lot of time benchmarking clients against industry incumbents. While we work on our own proprietary survey data, I wanted to explore the public side of that same question: what does benefits access actually look like across America? So I chose to work with National Compensation Survey by the U.S. Bureau of Labor Statistics as it provides a comprehensive snapshot of employee benefits access across the country by industry, wage tier, and ownership type over the span of 15 years. 
 
 ---
 
